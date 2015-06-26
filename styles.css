@@ -1,0 +1,16 @@
+body { background-color:cyan; 
+
+}
+
+p {
+	height: 10px;
+	color:blue;
+}
+
+p#yolo {
+	color:orange;
+}
+
+p.egg {
+	color:F2E599;
+}
